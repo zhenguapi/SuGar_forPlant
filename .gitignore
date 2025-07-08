@@ -1,6 +1,7 @@
 *.pt
 *.pth
 output*
+data*
 *.slurm
 *.pyc
 *.ply
