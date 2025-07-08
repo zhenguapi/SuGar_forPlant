@@ -124,7 +124,7 @@ dependencies:
   - ncurses=6.4=h6a678d5_0
   - nettle=3.7.3=hbbd107a_1
   - networkx=3.1=py39h06a4308_0
-  - nodejs=6.13.1=0
+    #  - nodejs=6.13.1=0
   - notebook-shim=0.2.3=pyhd8ed1ab_0
   - numpy=1.26.2=py39h5f9d8c6_0
   - numpy-base=1.26.2=py39hb5e798b_0
